@@ -1,0 +1,1073 @@
+Importer Log Report
+Project : C200 V1.11.PrjPcb
+
+Section : Document - D:\WMS\C200\CC122\∂‘Õ‚\C200 V1.11.DSN
+
+    Section : Importing Sheet - 04_SODIMM connector 1_3.SchDoc
+        Warning : Power Port of type 3V3 at (449.58mm,381mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (474.98mm,381mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (502.92mm,381mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (359.41mm,251.46mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (487.68mm,292.1mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (513.33mm,187.96mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (429.26mm,137.16mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (429.26mm,149.86mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (289.56mm,256.54mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (289.56mm,226.06mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (289.56mm,317.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (289.56mm,302.26mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (289.56mm,279.4mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (289.56mm,220.98mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (289.56mm,261.62mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (289.56mm,231.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (289.56mm,205.74mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (289.56mm,210.82mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (520.7mm,330.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (520.7mm,345.44mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (220.73mm,142.24mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (520.7mm,335.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (520.7mm,340.36mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (289.56mm,312.42mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (289.56mm,307.34mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (289.56mm,274.32mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (289.56mm,284.48mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (505.46mm,274.32mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (289.56mm,289.56mm) is not recognised
+        Warning : Junction at (81.28mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,106.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,91.44mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,121.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,193.04mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,182.88mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,162.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,233.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,223.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,279.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,274.32mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,264.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,294.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,289.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,137.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,142.24mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,147.32mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,167.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,248.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (203.2mm,86.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (203.2mm,106.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (203.2mm,137.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (203.2mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (203.2mm,91.44mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (203.2mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (203.2mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (203.2mm,182.88mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (480.06mm,137.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (474.98mm,378.46mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (63.5mm,363.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,353.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,342.9mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,322.58mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,327.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,332.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (510.54mm,167.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (48.26mm,363.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (452.12mm,213.36mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 05_SODIMM connector 2_3.SchDoc
+        Warning : Power Port of type 3V3 at (520.7mm,190.5mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (78.74mm,119.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (78.74mm,129.54mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (480.06mm,109.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (480.06mm,119.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,200.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,205.74mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,226.06mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,215.9mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,99.06mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,124.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,139.7mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,144.78mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,149.86mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,154.94mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,279.4mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,284.48mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,325.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,335.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (78.74mm,340.36mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (480.06mm,142.24mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (480.06mm,152.4mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (480.06mm,170.18mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (480.06mm,177.8mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (480.06mm,182.88mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (480.06mm,187.96mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (480.06mm,193.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (480.06mm,241.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (480.06mm,236.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (76.2mm,297.18mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (78.74mm,104.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (78.74mm,109.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (78.74mm,114.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (78.74mm,134.62mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (78.74mm,165.1mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (78.74mm,238.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (78.74mm,243.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (78.74mm,248.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (78.74mm,254mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (78.74mm,259.08mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (78.74mm,264.16mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (78.74mm,269.24mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (78.74mm,274.32mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (480.06mm,165.1mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (480.06mm,205.74mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (480.06mm,210.82mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (480.06mm,215.9mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (480.06mm,220.98mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (480.06mm,226.06mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (480.06mm,231.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (480.06mm,246.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (480.06mm,251.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,99.06mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,104.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,114.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (78.74mm,220.98mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (78.74mm,210.82mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (78.74mm,160.02mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (78.74mm,170.18mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (78.74mm,330.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,132.08mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,137.16mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,147.32mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,292.1mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,297.18mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,302.26mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,307.34mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,312.42mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,317.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,358.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,363.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,368.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,373.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,378.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,383.54mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (76.2mm,302.26mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (479.81mm,325.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (479.81mm,330.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (479.81mm,335.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (479.81mm,340.36mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (479.81mm,345.44mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (479.81mm,350.52mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,259.08mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,264.16mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,269.24mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,274.32mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,279.4mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (480.06mm,284.48mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (76.2mm,312.42mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (76.2mm,307.34mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (78.74mm,353.06mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (78.74mm,358.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (78.74mm,365.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (78.74mm,370.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (78.74mm,378.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (78.74mm,383.54mm) is not recognised
+    EndSection
+
+    Section : Importing Sheet - 06_SODIMM connector 3_3.SchDoc
+        Warning : Power Port of type 3V3 at (160.02mm,109.22mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (193.04mm,111.76mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (175.26mm,170.18mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,223.52mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,228.6mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,246.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,251.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (218.44mm,96.52mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,139.7mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,144.78mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,152.4mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,157.48mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,165.1mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,172.72mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,195.58mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,200.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,269.24mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,274.32mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,292.1mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,297.18mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,304.8mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,309.88mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (408.94mm,325.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (175.26mm,162.56mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (175.26mm,182.88mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,213.36mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,218.44mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,236.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,241.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,129.54mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,134.62mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,185.42mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,190.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,259.08mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,264.16mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,281.94mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,287.02mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,317.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,332.74mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (175.26mm,279.4mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (175.26mm,284.48mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (175.26mm,289.56mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (175.26mm,294.64mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (175.26mm,177.8mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (175.26mm,190.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (175.26mm,195.58mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (175.26mm,200.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (175.26mm,205.74mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (175.26mm,210.82mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (175.26mm,215.9mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (175.26mm,220.98mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (175.26mm,226.06mm) is not recognised
+    EndSection
+
+    Section : Importing Sheet - 07_DC Jack and DCDC.SchDoc
+        Warning : Power Port of type VAR_POW at (236.47mm,340.61mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (481.08mm,178.05mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (559.05mm,321.56mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (300.74mm,327.91mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (304.29mm,292.86mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (537.46mm,208.03mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (339.34mm,200.41mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (538.73mm,129.03mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (340.61mm,121.41mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (175.51mm,81.28mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (221.23mm,84.07mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (265.94mm,63.75mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (455.93mm,351.79mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (329.18mm,202.95mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (330.45mm,123.95mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (469.9mm,336.55mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (453.9mm,187.71mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (90.42mm,157.99mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (122.94mm,98.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (42.42mm,107.7mm) is not recognised
+        Warning : Junction at (473.96mm,321.56mm) has been added.
+        Warning : Junction at (187.45mm,213.36mm) has been added.
+        Warning : Junction at (208.03mm,213.36mm) has been added.
+        Warning : Junction at (134.87mm,322.83mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (150.11mm,330.45mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (134.87mm,297.43mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (170.43mm,327.91mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (43.43mm,325.37mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (43.43mm,322.83mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (111.25mm,330.45mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (515.62mm,321.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (519.94mm,321.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (408.94mm,307.85mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (524.26mm,321.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (449.58mm,351.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (449.58mm,336.55mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (556.26mm,321.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (408.94mm,321.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (371.35mm,321.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (357.63mm,321.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (255.78mm,327.91mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (282.7mm,327.91mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (286.26mm,292.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (292.35mm,292.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (197.61mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (205.49mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (180.85mm,127mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (148.34mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (148.34mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (157.73mm,127mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (102.87mm,118.11mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (254.51mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (228.35mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (246.13mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (400.3mm,218.19mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (435.86mm,208.03mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (369.82mm,192.79mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (369.82mm,182.63mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (369.82mm,177.55mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (369.82mm,180.09mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (369.82mm,218.19mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (440.94mm,208.03mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (519.68mm,208.03mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (509.52mm,208.03mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (534.92mm,208.03mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (369.82mm,187.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (452.37mm,187.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (476.5mm,208.03mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (357.12mm,218.19mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (367.28mm,202.95mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (401.57mm,139.19mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (371.09mm,103.63mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (371.09mm,101.09mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (442.21mm,129.03mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (520.95mm,129.03mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (510.79mm,129.03mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (371.09mm,108.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (477.77mm,129.03mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (368.55mm,123.95mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (175.51mm,61.21mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (194.06mm,61.21mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (358.14mm,218.19mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (347.22mm,130.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (388.87mm,139.19mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (221.49mm,327.91mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (215.39mm,327.91mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (88.9mm,108.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (73.41mm,107.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (428.5mm,291.34mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 08_Fan Debug and EEPROM.SchDoc
+        Warning : Power Port of type 3V3 at (86.36mm,162.56mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (133.86mm,217.42mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (134.62mm,175.26mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (261.62mm,269.24mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (342.9mm,269.24mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (347.98mm,119.38mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (187.96mm,137.16mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (58.67mm,258.83mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (157.48mm,286.26mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (228.6mm,162.56mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (93.98mm,259.08mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (66.04mm,134.62mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (66.04mm,139.7mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (289.56mm,81.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (289.56mm,88.9mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (38.1mm,233.68mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (254mm,129.54mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (254mm,134.62mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (254mm,139.7mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (254mm,147.32mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (368.3mm,236.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (368.3mm,238.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (118.87mm,198.12mm) is not recognised
+        Warning : Junction at (292.1mm,129.54mm) has been added.
+        Warning : Junction at (294.64mm,233.68mm) has been added.
+        Warning : Junction at (246.38mm,236.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (276.86mm,236.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (133.86mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (157.48mm,236.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (312.42mm,137.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (347.98mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (370.84mm,121.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (266.7mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (86.36mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (276.86mm,266.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (347.98mm,109.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (134.62mm,162.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,160.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (157.48mm,261.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (95.25mm,220.47mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (58.67mm,257.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (60.2mm,220.22mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 09_1V8 LDO & 3V3 AO Rails.SchDoc
+        Warning : Power Port of type VCC_OUT at (45.72mm,81.28mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (111.76mm,149.86mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (66.04mm,33.02mm) is not recognised
+        Warning : Junction at (187.96mm,55.88mm) has been added.
+        Warning : Junction at (88.9mm,160.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (177.8mm,160.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (58.42mm,73.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (223.52mm,73.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (83.82mm,71.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (45.72mm,73.66mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 10_TYPE_C.SchDoc
+        Warning : Power Port of type 5V at (284.48mm,396.24mm) was replaced with Arrow style port
+        Warning : Power Port of type 5V at (429.26mm,243.84mm) was replaced with Arrow style port
+        Warning : Power Port of type 5V at (551.18mm,327.66mm) was replaced with Arrow style port
+        Warning : Power Port of type GND_1 at (347.98mm,182.88mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (45.72mm,312.42mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (142.24mm,398.78mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (378.46mm,342.9mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (398.78mm,365.76mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (99.06mm,194.31mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (55.37mm,165.1mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (457.2mm,350.27mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (78.74mm,309.88mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (86.36mm,165.1mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (86.36mm,167.64mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (284.48mm,109.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (284.48mm,114.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (30.48mm,279.4mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (78.74mm,294.64mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (86.36mm,160.02mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (86.36mm,157.48mm) is not recognised
+        Warning : Junction at (142.24mm,386.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (45.72mm,279.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (289.56mm,325.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (398.78mm,317.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (195.58mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (205.74mm,142.24mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (246.38mm,144.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (99.06mm,175.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (124.46mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (152.4mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (55.37mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (99.06mm,190.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (92.2mm,190.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (86.61mm,178.31mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (340.36mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (469.9mm,317.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (457.2mm,345.19mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (551.18mm,322.58mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (477.52mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (477.52mm,134.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (429.26mm,127mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (429.26mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (66.04mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (66.04mm,106.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (95.76mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (99.06mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (66.04mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (469.9mm,314.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (347.98mm,109.22mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 11_USB3.1 x4 HUB.SchDoc
+        Warning : Power Port of type VCC_IN at (162.56mm,213.36mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (177.8mm,200.66mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (195.58mm,175.26mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (177.8mm,127mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (177.8mm,124.46mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (160.02mm,243.84mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (33.02mm,213.36mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (119.38mm,218.44mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (200.66mm,81.28mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (200.66mm,104.14mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (280.67mm,165.1mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (58.42mm,180.34mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (154.94mm,215.9mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (175.26mm,205.74mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (172.72mm,147.32mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (48.26mm,129.54mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (124.46mm,182.88mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (287.02mm,142.24mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (43.18mm,172.72mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (287.02mm,147.32mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (152.4mm,251.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (152.4mm,248.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (152.4mm,259.08mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (152.4mm,256.54mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (152.4mm,266.7mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (152.4mm,264.16mm) is not recognised
+        Warning : Junction at (187.96mm,238.76mm) has been added.
+        Warning : Junction at (198.12mm,213.36mm) has been added.
+        Warning : Junction at (198.12mm,187.96mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (198.12mm,193.04mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (198.12mm,195.58mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (198.12mm,172.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (198.12mm,165.1mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (198.12mm,160.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (165.1mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (83.82mm,266.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (83.82mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (241.3mm,91.44mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (215.9mm,68.58mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (215.9mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (213.36mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (241.3mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (213.36mm,91.44mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (50.8mm,129.54mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (88.9mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (58.42mm,177.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (71.12mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (111.76mm,177.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (280.67mm,160.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (280.67mm,157.48mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 12_USB3.1 Type-A x2 (A).SchDoc
+        Warning : Power Port of type VAR_POW at (181.61mm,283.21mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (304.8mm,121.92mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (304.8mm,198.12mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (71.12mm,283.21mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (66.04mm,231.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (66.04mm,167.64mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (66.04mm,172.72mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (88.9mm,180.34mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (88.9mm,185.42mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (63.5mm,101.6mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (63.5mm,106.68mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (88.9mm,193.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (88.9mm,198.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (63.5mm,88.9mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (63.5mm,93.98mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (73.66mm,73.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (73.66mm,78.74mm) is not recognised
+        Warning : Junction at (71.12mm,271.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (93.98mm,193.04mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (86.36mm,106.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (121.92mm,88.9mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (121.92mm,93.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (86.36mm,101.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (129.54mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (93.98mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (129.54mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (78.74mm,73.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (375.92mm,99.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (375.92mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (327.66mm,172.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (327.66mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (181.61mm,271.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (83.82mm,228.6mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 13_USB3.1 Type-A x2 (B).SchDoc
+        Warning : Power Port of type VCC_OUT at (116.84mm,289.56mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (111.76mm,246.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (96.52mm,116.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (96.52mm,111.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (114.3mm,193.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (114.3mm,198.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (106.68mm,167.64mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (106.68mm,172.72mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGELEFT-B at (109.22mm,129.54mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGELEFT-B at (109.22mm,124.46mm) is not recognised
+        Warning : Junction at (162.56mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (162.56mm,193.04mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (160.02mm,129.54mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (160.02mm,124.46mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (127mm,99.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (408.94mm,121.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (408.94mm,127mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (360.68mm,195.58mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (360.68mm,119.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (160.02mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (99.06mm,116.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (134.62mm,116.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (134.62mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (121.92mm,172.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (121.92mm,167.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (152.4mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (152.4mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (219.71mm,280.67mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (129.54mm,243.84mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 14_BUTTON_MCU.SchDoc
+        Warning : Power Port of type 3V3 at (274.32mm,289.56mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (332.74mm,299.72mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (391.16mm,180.34mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (408.94mm,342.9mm) was replaced with Arrow style port
+        Warning : Power Port of type GND_1 at (175.26mm,233.68mm) was replaced with Arrow style port
+        Warning : Power Port of type GND_1 at (373.38mm,236.22mm) was replaced with Arrow style port
+        Warning : Power Port of type GND_1 at (373.38mm,246.38mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (525.78mm,182.88mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (574.04mm,195.58mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (124.46mm,269.24mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (426.72mm,226.06mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (500.38mm,317.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (408.94mm,165.1mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (426.72mm,231.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (520.7mm,261.62mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (546.1mm,210.82mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (571.5mm,162.56mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (53.34mm,248.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (314.96mm,170.18mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (167.89mm,238.76mm) is not recognised
+        Warning : Junction at (251.46mm,284.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (251.46mm,279.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (269.24mm,279.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (332.74mm,297.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (370.84mm,297.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (408.94mm,340.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (408.94mm,317.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (414.02mm,317.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (269.24mm,218.44mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (386.08mm,226.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (231.14mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (231.14mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (464.82mm,261.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (566.42mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (538.48mm,193.04mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (439.42mm,210.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (449.58mm,210.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (271.78mm,200.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (68.58mm,238.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (528.32mm,210.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (398.78mm,165.1mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (474.98mm,160.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (237.49mm,238.76mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 15_Gigabit_Ethernet.SchDoc
+        Warning : Power Port of type 3V3 at (127mm,172.72mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE_1 at (66.04mm,73.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (66.04mm,142.24mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (66.04mm,93.98mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (66.04mm,99.06mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (66.04mm,104.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (66.04mm,109.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (66.04mm,121.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (66.04mm,127mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (66.04mm,132.08mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (66.04mm,137.16mm) is not recognised
+        Warning : Junction at (137.16mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (127mm,167.64mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 16_HDMI&DP.SchDoc
+        Warning : Power Port of type 3V3 at (55.88mm,354.58mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (190.5mm,358.9mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (114.3mm,226.57mm) was replaced with Arrow style port
+        Warning : Power Port of type NVVDD at (383.54mm,363.98mm) was replaced with Arrow style port
+        Warning : Power Port of type NVVDD at (458.98mm,255.52mm) was replaced with Arrow style port
+        Warning : Power Port of type NVVDD at (301.75mm,225.81mm) was replaced with Arrow style port
+        Warning : Power Port of type NVVDD at (456.69mm,105.41mm) was replaced with Arrow style port
+        Warning : Power Port of type NVVDD at (282.45mm,229.36mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (246.38mm,356.36mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (343.92mm,333.5mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (434.34mm,161.54mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (497.84mm,192.02mm) was replaced with Arrow style port
+        Warning : Power Port of type VAR_POW at (332.99mm,219.2mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (294.64mm,348.74mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (151.64mm,252.73mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (151.64mm,257.81mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (149.1mm,285.75mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (177.8mm,336.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (151.64mm,265.43mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (151.64mm,270.51mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (149.1mm,300.99mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (149.1mm,295.91mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (149.1mm,280.67mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (105.92mm,155.45mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (105.92mm,150.37mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (106.68mm,119.89mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (106.93mm,135.13mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (106.93mm,140.21mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (106.68mm,124.97mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (107.19mm,107.19mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (107.19mm,112.27mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (35.56mm,331.72mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (454.66mm,176.78mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (150.37mm,207.26mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (150.37mm,209.8mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (90.68mm,203.96mm) is not recognised
+        Warning : Junction at (294.64mm,343.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (298.96mm,262.89mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (480.06mm,176.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (510.54mm,176.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (212.6mm,265.43mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (497.33mm,258.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (497.33mm,273.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (497.33mm,288.54mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (258.32mm,262.89mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (448.56mm,78.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (190.5mm,333.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (187.2mm,285.75mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.74mm,257.81mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.74mm,252.73mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.48mm,155.45mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (214.88mm,150.37mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.48mm,150.37mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.48mm,140.21mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.48mm,135.13mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (214.88mm,140.21mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (212.34mm,135.13mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.48mm,119.89mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.48mm,107.19mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.48mm,112.27mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (212.34mm,112.27mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (212.34mm,107.19mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.74mm,270.51mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.74mm,265.43mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (187.2mm,300.99mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (187.2mm,295.91mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (231.65mm,209.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (231.65mm,207.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (252.98mm,209.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (256.29mm,207.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (275.59mm,199.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (281.43mm,202.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (301.75mm,209.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (301.75mm,225.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (238.76mm,189.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (242.82mm,189.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (238.76mm,229.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (140.46mm,194.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,225.81mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (334.77mm,257.81mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (338.33mm,260.35mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (349.25mm,283.21mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (352.81mm,285.75mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (338.33mm,237.24mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (349.25mm,236.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (359.92mm,236.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,226.57mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (461.77mm,255.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (216.66mm,252.73mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (212.6mm,260.35mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (263.4mm,260.35mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (263.4mm,257.81mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (263.4mm,283.21mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (263.4mm,285.75mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (296.42mm,267.97mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 17_CAM_Connector.SchDoc
+        Warning : Power Port of type 3V3 at (159.51mm,358.39mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (228.6mm,375.92mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (341.63mm,194.56mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (320.55mm,80.01mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (141.73mm,228.35mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (158.75mm,118.36mm) was replaced with Arrow style port
+        Warning : Power Port of type GND_2 at (248.92mm,299.72mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE_1 at (219.46mm,251.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (219.46mm,248.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (219.2mm,243.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (219.2mm,241.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (219.2mm,228.6mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (219.2mm,226.06mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (219.2mm,218.44mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (219.2mm,220.98mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (216.15mm,141.48mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (216.15mm,138.94mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (216.15mm,133.86mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (216.15mm,131.32mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (215.9mm,118.62mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (215.9mm,116.08mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (216.41mm,108.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (216.41mm,111mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (229.87mm,210.82mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (115.82mm,208.03mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (147.32mm,327.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (234.95mm,100.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (128.27mm,98.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (132.08mm,320.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (147.32mm,337.82mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (220.73mm,233.68mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (220.73mm,236.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (216.41mm,123.7mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (216.41mm,126.24mm) is not recognised
+        Warning : Junction at (228.6mm,365.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (241.3mm,370.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (254mm,365.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (254mm,370.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (266.7mm,365.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (260.35mm,236.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (263.91mm,233.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (246.13mm,251.46mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (249.68mm,248.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (253.24mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (256.79mm,241.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (337.82mm,238.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (337.82mm,246.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (147.32mm,320.04mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (337.57mm,223.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (337.57mm,215.9mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (373.63mm,200.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (251.21mm,72.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (265.68mm,126.24mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (269.24mm,123.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (251.21mm,141.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (254.76mm,138.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (258.32mm,133.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (261.87mm,131.32mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (342.9mm,128.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (342.9mm,136.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (342.65mm,98.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (378.71mm,90.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (272.8mm,118.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (280.16mm,111mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (294.64mm,72.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (246.13mm,182.63mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (246.13mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (260.35mm,182.63mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (263.91mm,182.63mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (271.02mm,182.63mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (278.13mm,182.63mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (285.24mm,182.63mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (267.46mm,228.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (278.13mm,218.44mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (281.69mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (285.24mm,210.82mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 18_40Pin_GPIO_expansion_heade.SchDoc
+        Warning : Power Port of type 3V3 at (114.3mm,172.72mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (114.3mm,269.24mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (162.56mm,172.72mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (162.56mm,269.24mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (276.86mm,266.7mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (266.7mm,160.02mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (325.12mm,266.7mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (38.1mm,264.16mm) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (387.86mm,160.02mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (269.24mm,83.82mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (269.24mm,106.68mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (269.24mm,114.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (269.24mm,116.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (235.2mm,124.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (375.16mm,83.82mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (375.16mm,99.06mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (375.16mm,101.6mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (375.16mm,109.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (375.16mm,111.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (375.16mm,121.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (375.16mm,96.52mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (269.24mm,104.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (375.16mm,81.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (375.16mm,86.36mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (375.16mm,104.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (375.16mm,119.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,241.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,243.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,246.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,248.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,238.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (104.14mm,139.7mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (104.14mm,142.24mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,231.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,233.68mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,236.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,86.36mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,88.9mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,91.44mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,93.98mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,101.6mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,121.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (234.7mm,127mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (375.16mm,91.44mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (375.16mm,116.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,96.52mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (177.8mm,236.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (269.24mm,111.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (360.68mm,241.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (360.68mm,243.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (360.68mm,238.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (360.68mm,246.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (360.68mm,248.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (104.14mm,147.32mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (104.14mm,149.86mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (104.14mm,152.4mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (104.14mm,154.94mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (104.14mm,157.48mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (106.68mm,233.68mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (106.68mm,236.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (106.68mm,238.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (106.68mm,241.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (106.68mm,243.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (106.68mm,246.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (106.68mm,248.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (106.68mm,251.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,139.7mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,144.78mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,147.32mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,149.86mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,152.4mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,154.94mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,157.48mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,233.68mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,238.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,241.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,243.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,246.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,248.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (177.8mm,251.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (360.68mm,231.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (360.68mm,233.68mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (360.68mm,236.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (104.14mm,144.78mm) is not recognised
+        Warning : Junction at (266.7mm,157.48mm) has been added.
+        Warning : Junction at (162.56mm,129.54mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (327.66mm,220.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (281.94mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (352.3mm,88.9mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (352.3mm,93.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (352.3mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (241.05mm,124.46mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (367.79mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (373.63mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (266.7mm,143.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (373.63mm,144.53mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 19_KEY_M_X4.SchDoc
+        Warning : Power Port of type 3V3 at (101.85mm,206.25mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (80.77mm,215.14mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (60.71mm,225.55mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (185.42mm,272.8mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (105.92mm,153.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (124.46mm,190.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (327.66mm,139.7mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (327.66mm,142.24mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (327.66mm,154.94mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (327.66mm,157.48mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (327.66mm,170.18mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (327.66mm,172.72mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (327.66mm,185.42mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (327.66mm,187.96mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (146.81mm,171.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (147.32mm,165.86mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (327.66mm,132.08mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (327.66mm,134.62mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (327.66mm,147.32mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (327.66mm,149.86mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (327.66mm,162.56mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (327.66mm,165.1mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (327.66mm,177.8mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (327.66mm,180.34mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (327.66mm,193.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (327.66mm,195.58mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (124.46mm,193.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (124.46mm,195.58mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (56.13mm,210.57mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (106.68mm,157.48mm) is not recognised
+        Warning : Junction at (101.85mm,182.88mm) has been added.
+        Warning : Junction at (100.58mm,266.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (185.42mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (185.42mm,220.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (185.42mm,144.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (185.42mm,142.24mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (185.42mm,147.32mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (274.32mm,119.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (274.32mm,127mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (274.32mm,137.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (274.32mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (274.32mm,175.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (274.32mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (274.32mm,218.44mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (299.72mm,193.04mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (299.72mm,177.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (299.72mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (299.72mm,162.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (299.72mm,147.32mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (299.72mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (185.42mm,210.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (98.3mm,238.76mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 20_KEY_M_X2.SchDoc
+        Warning : Power Port of type 3V3 at (178.31mm,257.3mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (98.81mm,135.89mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (117.35mm,172.47mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (168.91mm,164.85mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (364.74mm,167.39mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (364.74mm,169.67mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (357.38mm,152.15mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (357.38mm,154.69mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (116.59mm,165.1mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (365.76mm,159.77mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (365.76mm,162.31mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (369.32mm,123.7mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (369.32mm,120.9mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (363.47mm,184.15mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (363.98mm,187.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (364.49mm,175.01mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_3 at (364.49mm,177.55mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (117.35mm,175.01mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (117.35mm,177.55mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (116.33mm,167.64mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (98.3mm,154.18mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (99.57mm,139.45mm) is not recognised
+        Warning : Junction at (267.21mm,101.35mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (267.21mm,119.13mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (267.21mm,134.37mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (267.21mm,141.99mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (267.21mm,157.23mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (267.21mm,172.47mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (267.21mm,200.41mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (111.25mm,248.67mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (163.07mm,225.81mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (178.31mm,124.21mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (178.31mm,114.05mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (178.31mm,126.75mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (178.31mm,200.41mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (178.31mm,202.95mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (178.31mm,192.79mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (178.31mm,248.67mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (91.19mm,220.73mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.27mm,123.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (347.47mm,120.9mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (305.05mm,162.31mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (302.26mm,159.77mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (347.47mm,154.69mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (349.76mm,152.15mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (312.67mm,169.93mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (309.63mm,167.39mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (152.4mm,175.01mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (155.45mm,172.47mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - 21_KEY_E.SchDoc
+        Warning : Power Port of type 3V3 at (91.44mm,106.68mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (82.3mm,239.52mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (115.32mm,153.16mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (138.18mm,183.64mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (162.56mm,106.68mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (168.66mm,275.08mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (338.84mm,252.22mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (53.59mm,197.61mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (76.96mm,208.03mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE at (38.1mm,76.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (74.68mm,216.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (116.84mm,76.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (115.32mm,160.78mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (115.32mm,163.32mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (115.32mm,168.4mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (115.32mm,176.02mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (115.32mm,191.26mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (115.32mm,196.34mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (115.32mm,214.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (115.32mm,226.82mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (292.1mm,86.36mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (387.1mm,193.8mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (387.1mm,196.34mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (116.84mm,71.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE at (25.91mm,165.35mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (368.3mm,86.36mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (387.1mm,211.58mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_1 at (387.1mm,209.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_2 at (368.3mm,76.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (115.32mm,165.86mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (115.32mm,178.56mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (115.32mm,193.8mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (115.32mm,229.36mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (387.1mm,201.42mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (387.1mm,203.96mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (387.1mm,216.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_4 at (387.1mm,219.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (115.32mm,224.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (292.1mm,76.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (384.56mm,153.16mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE_5 at (384.56mm,155.7mm) is not recognised
+        Warning : Junction at (166.12mm,176.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (300.74mm,158.24mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (300.74mm,191.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (300.74mm,214.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (300.74mm,221.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (300.74mm,236.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (82.3mm,216.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (82.3mm,236.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (138.18mm,153.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (155.96mm,153.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (163.58mm,153.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (168.66mm,244.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (354.08mm,242.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (162.56mm,88.9mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (53.59mm,180.85mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (76.96mm,192.28mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing PSpice Simulation Profiles
+        Error   : Orcad Project file not found - 
+    EndSection
+EndSection

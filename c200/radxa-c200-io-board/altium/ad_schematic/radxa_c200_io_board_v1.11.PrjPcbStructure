@@ -1,0 +1,21 @@
+Record=TopLevelDocument|FileName=01 Cover.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=02 Index.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=03_Block diagram.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=04_SODIMM connector 1_3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=05_SODIMM connector 2_3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=06_SODIMM connector 3_3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=07_DC Jack and DCDC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=08_Fan Debug and EEPROM.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=09_1V8 LDO & 3V3 AO Rails.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=10_TYPE_C.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=11_USB3.1 x4 HUB.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=12_USB3.1 Type-A x2 (A).SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=13_USB3.1 Type-A x2 (B).SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=14_BUTTON_MCU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=15_Gigabit_Ethernet.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=16_HDMI&DP.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=17_CAM_Connector.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=18_40Pin_GPIO_expansion_heade.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=19_KEY_M_X4.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=20_KEY_M_X2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Cover.SchDoc|FileName=21_KEY_E.SchDoc|SheetNumber= 
