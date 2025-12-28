@@ -11,3 +11,4 @@ Send a new PR to this repository on GitHub, append your application table(sort P
 | Project Name | CM5 Model                         | Hardware(Carrier Board)             | Software | Notes                                           |
 |--------------|-----------------------------------|-------------------------------------|----------|------------------------------------------------|
 | Argo         | Radxa CM5 Max (16GB RAM, 128GB eMMC) | Custom Raspberry Pi–focused Carrier PCB | Ubuntu/Android      | For testing with custom Raspi-focused Carrier PCB |
+| piBrick PocketRX5         | Radxa CM5 Max (16GB RAM, 128GB eMMC) | Handheld pocket computer | Ubuntu/Android      | For designing new board supporting Radxa CM5 |
