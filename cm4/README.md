@@ -10,3 +10,4 @@ Send a new PR to this repository on GitHub, append your application table(sort P
 
 | Project Name        | CM4 Model     | Hardware(Carrier Board)                                      | Software                                                | Notes                                                        |
 | ------------------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
+| piBrick PocketRX4         | Radxa CM4 (16GB RAM, 128GB eMMC) | Handheld pocket computer | Debian/Android      | For designing new board supporting Radxa CM4 |
